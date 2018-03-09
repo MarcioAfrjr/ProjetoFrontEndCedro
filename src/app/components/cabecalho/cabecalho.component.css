@@ -1,0 +1,20 @@
+div{
+    color:white;
+    background-color: slategrey;
+    margin: 0px;
+    height: 40px;
+    margin: -8px 0px 0px -8px;
+    padding: 0px 16px 0px 0px;
+    width: 100%;
+}
+
+
+button{
+    background-color: transparent;
+    height: 100%;
+    border: hidden;
+    font-size: 18px;
+    cursor: pointer;
+    padding-left: 20px;
+}
+

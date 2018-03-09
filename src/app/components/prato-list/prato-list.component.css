@@ -1,0 +1,19 @@
+tr{
+    color: mintcream;
+    background-color: grey;
+    width: 100%;
+}
+td,th{
+    border: 1px solid;
+    text-align: left;
+    min-width: 50px;
+    max-width: 150px;
+}
+
+table{
+    background-color: silver;
+    margin:0px;
+    padding-left: 100px;
+    float:left;
+    width: 400px;
+}

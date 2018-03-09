@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import {Prato} from "./prato";
+import {ListaPratoService} from "./services/lista-prato.service";
 
 @Component({
   selector: 'app-root',
@@ -7,4 +9,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  
+
+
 }
